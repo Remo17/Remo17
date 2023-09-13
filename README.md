@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Remo17
+- 👋 Hi, I’m @comrade2.0
 - 👀 I’m interested in Full Stack Development to help the daily lives of people easier.
 - 🌱 I’m currently learning C++,C# and Bash.
 - 💞️ I’m looking to collaborate on entry level projects to aid the development of my portfolio.
