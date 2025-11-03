@@ -1,4 +1,4 @@
-# 👋 Hi, I’m **Remoratile Tjia** (Remo17)
+# Hi, I’m **Remoratile Tjia** 
 
 <p align="center">
   <img src="https://i.imgur.com/KCBVgkd.gif" alt="animated banner" width="80%" />
